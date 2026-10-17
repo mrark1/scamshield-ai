@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI",
+  "description": "Evidence-based investigation platform combining live web research and AI analysis to evaluate suspicious job offers, internships, messages, and online claims.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
